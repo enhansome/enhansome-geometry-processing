@@ -1,0 +1,1184 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Point Cloud Library (PCL)",
+          "description": "A standalone, large scale, open project for 2D/3D image and point cloud processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:52:28Z",
+            "owner": "PointCloudLibrary",
+            "repo": "pcl",
+            "stars": 11090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshLab",
+          "description": "An open-source system for processing and editing 3D triangular meshes.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyMeshLab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-03T13:32:13Z",
+                "owner": "cnr-isti-vclab",
+                "repo": "PyMeshLab",
+                "stars": 972
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:14:56Z",
+            "owner": "cnr-isti-vclab",
+            "repo": "meshlab",
+            "stars": 5787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapely",
+          "description": "for manipulation and analysis of planar geometric objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:28:20Z",
+            "owner": "shapely",
+            "repo": "shapely",
+            "stars": 4489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trimesh",
+          "description": "documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:31:36Z",
+            "owner": "mikedh",
+            "repo": "trimesh",
+            "stars": 3647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embree",
+          "description": "a ray tracing library with GP modules including geometry objects, ray/point queries, collision detection, BVH, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T11:11:02Z",
+            "owner": "RenderKit",
+            "repo": "embree",
+            "stars": 2738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geogram",
+          "description": "contains the main results in GP from the former ALICE Inria project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T15:17:11Z",
+            "owner": "BrunoLevy",
+            "repo": "geogram",
+            "stars": 2494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifold",
+          "description": "a geometry library dedicated to creating and operating on manifold triangle meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T11:42:27Z",
+            "owner": "elalish",
+            "repo": "manifold",
+            "stars": 2218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyMesh(2)",
+          "description": "A rapid prototyping platform for geometry processing research.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Issue with Windows",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-08-08T20:25:21Z",
+                "owner": "PyMesh",
+                "repo": "PyMesh",
+                "stars": 2043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "This is not PyMesh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-10-18T06:39:28Z",
+                "owner": "taxpon",
+                "repo": "pymesh",
+                "stars": 48
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-08T20:25:21Z",
+            "owner": "PyMesh",
+            "repo": "PyMesh",
+            "stars": 2043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy3D",
+          "description": "A lightweight and easy-to-use 3D mesh processing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-30T16:27:37Z",
+            "owner": "LiangliangNan",
+            "repo": "Easy3D",
+            "stars": 1646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Utils (pcu)",
+          "description": "a utility library for 3D processing point clouds and triangle meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-10T00:24:36Z",
+            "owner": "fwilliams",
+            "repo": "point-cloud-utils",
+            "stars": 1550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PMP Library",
+          "description": "A C++ library for polygon mesh processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T21:48:20Z",
+            "owner": "pmp-library",
+            "repo": "pmp-library",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyntcloud",
+          "description": "making point clouds fun again",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T08:46:17Z",
+            "owner": "daavoo",
+            "repo": "pyntcloud",
+            "stars": 1499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEOS",
+          "description": "Geometry Engine, Open Source. Computational geometry library with a focus on algorithms used in geographic information systems (GIS). website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:03:06Z",
+            "owner": "libgeos",
+            "repo": "geos",
+            "stars": 1488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometric Tools",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:27:31Z",
+            "owner": "davideberly",
+            "repo": "GeometricTools",
+            "stars": 1379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry Central",
+          "description": "doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T19:26:31Z",
+            "owner": "nmwsharp",
+            "repo": "geometry-central",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCGLib",
+          "description": "used by MeshLab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T14:08:19Z",
+            "owner": "cnr-isti-vclab",
+            "repo": "vcglib",
+            "stars": 1292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CinoLib",
+          "description": "a generic programming header-only C++ library for processing polygonal and polyhedral meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-15T08:14:53Z",
+            "owner": "mlivesu",
+            "repo": "cinolib",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugues Hoppe's library",
+          "description": "libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:06:57Z",
+            "owner": "hhoppe",
+            "repo": "Mesh-processing-library",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numerical Tours",
+          "description": "includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-10T05:58:11Z",
+            "owner": "gpeyre",
+            "repo": "numerical-tours",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshLib",
+          "description": "A C++ library for mesh processing and analysis by MeshInspector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:06:02Z",
+            "owner": "MeshInspector",
+            "repo": "MeshLib",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPI-IS Mesh",
+          "description": "A Python library for mesh processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-02T20:49:17Z",
+            "owner": "MPI-IS",
+            "repo": "mesh",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gptoolbox",
+          "description": "A MATLAB toolbox for geometry processing tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-05-15T20:08:20Z",
+            "owner": "alecjacobson",
+            "repo": "gptoolbox",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "potpourri3d",
+          "description": "mainly bindings to C++ tools from geometry-central.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-25T04:26:00Z",
+            "owner": "nmwsharp",
+            "repo": "potpourri3d",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boost.Geometry",
+          "description": "convex hull, intersection (clipping), within (point in polygon), distance, envelope (bounding box), simplify, transform, and much more. supports high precision arithmetic numbers, such as ttmath. doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:35:26Z",
+            "owner": "boostorg",
+            "repo": "geometry",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TTK",
+          "description": "The Topology ToolKit for efficient, generic, and easy topological data analysis and visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T07:58:20Z",
+            "owner": "topology-tool-kit",
+            "repo": "ttk",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGtal",
+          "description": "A library for digital geometry processing and analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T13:18:56Z",
+            "owner": "DGtal-team",
+            "repo": "DGtal",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphite",
+          "description": "an experimental 3D modeler, built around geogram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T07:53:51Z",
+            "owner": "BrunoLevy",
+            "repo": "GraphiteThree",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lagrange (Adobe)",
+          "description": "A robust GP library. Doc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T17:54:46Z",
+            "owner": "adobe",
+            "repo": "lagrange",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatGeom",
+          "description": "Matlab geometry toolbox for 2D/3D geometric computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-07-20T09:06:44Z",
+            "owner": "mattools",
+            "repo": "matGeom",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpytoolbox",
+          "description": "A Python toolbox for geometry processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:27:20Z",
+            "owner": "sgsellan",
+            "repo": "gpytoolbox",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGeode",
+          "description": "doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T15:47:24Z",
+            "owner": "Geode-solutions",
+            "repo": "OpenGeode",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thea",
+          "description": "A C++ library for computer graphics and geometry processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-03T20:47:07Z",
+            "owner": "sidch",
+            "repo": "Thea",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGP",
+          "description": "deprecated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-21T21:48:08Z",
+            "owner": "OpenGP",
+            "repo": "OpenGP",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gproshan",
+          "description": "using Compact Half–Edge (CHE) data structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-29T14:06:42Z",
+            "owner": "larc",
+            "repo": "gproshan",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boost.Polygon",
+          "description": "the polygon set operations (intersection, union, difference, disjoint-union) and related algorithms such as polygon connectivity graph extraction, offsetting and map-overlay. doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:35:26Z",
+            "owner": "boostorg",
+            "repo": "polygon",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltiMaille",
+          "description": "allow representing: point set, polyline, triangles, quads, polygons, tetrahedra, hexahedra, wedges, pyramids.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T13:12:45Z",
+            "owner": "ultimaille",
+            "repo": "ultimaille",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cg3lib",
+          "description": "a GP library developed by the CG3HCI Group of the University of Cagliari.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-12T12:05:23Z",
+            "owner": "cg3hci",
+            "repo": "cg3lib",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Euclid",
+          "description": "A C++ library for computational geometry and mesh processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-09T09:12:25Z",
+            "owner": "unclejimbo",
+            "repo": "Euclid",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshUtility",
+          "description": "A Python library for mesh utility functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-20T08:01:04Z",
+            "owner": "zishun",
+            "repo": "MeshUtility",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "LibIGL",
+          "description": "A simple C++ geometry processing library.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libigl-python-bindings",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T16:18:18Z",
+                "owner": "libigl",
+                "repo": "libigl-python-bindings",
+                "stars": 370
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "PyVista",
+          "description": "A Python package for 3D plotting and mesh analysis.",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "trimesh2",
+          "description": "different from the trimesh library above.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github fork",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-08-26T12:00:20Z",
+                "owner": "Forceflow",
+                "repo": "trimesh2",
+                "stars": 347
+              }
+            }
+          ]
+        }
+      ],
+      "title": "General Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polyscope",
+          "description": "a 3D data viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-20T05:55:33Z",
+            "owner": "nmwsharp",
+            "repo": "polyscope",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starlab",
+          "description": "A framework for developing geometry processing algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-02-02T11:49:49Z",
+            "owner": "OpenGP",
+            "repo": "starlab",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "GUI for GP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qhull",
+          "description": "Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-07T19:29:23Z",
+            "owner": "qhull",
+            "repo": "qhull",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshPy",
+          "description": "Python interfaces to Triangle, TetGen, and gmsh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:25:34Z",
+            "owner": "inducer",
+            "repo": "meshpy",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netgen",
+          "description": "an automatic 3d tetrahedral mesh generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T16:09:19Z",
+            "owner": "NGSolve",
+            "repo": "netgen",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jigsaw",
+          "description": "an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface, and volumetric domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-15T02:29:20Z",
+            "owner": "dengwirda",
+            "repo": "jigsaw",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quartet",
+          "description": "A tetrahedral meshing algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-15T21:28:38Z",
+            "owner": "crawforddoran",
+            "repo": "quartet",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Triangle",
+          "description": "A two-dimensional quality mesh generator and Delaunay triangulator.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "python binding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-07T05:04:15Z",
+                "owner": "drufat",
+                "repo": "triangle",
+                "stars": 264
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WildMeshing",
+          "description": "A collection of tools for robust mesh generation.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fTetWild",
+              "description": "Fast Tetrahedral Meshing in the Wild",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-05-05T14:12:15Z",
+                "owner": "wildmeshing",
+                "repo": "fTetWild",
+                "stars": 593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TriWild",
+              "description": "TriWild: Robust Triangulation with Curve Constraints",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-12-22T14:22:18Z",
+                "owner": "wildmeshing",
+                "repo": "TriWild",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wildmeshing-python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-12-17T14:28:58Z",
+                "owner": "wildmeshing",
+                "repo": "wildmeshing-python",
+                "stars": 57
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Mesh Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. code",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T15:17:11Z",
+            "owner": "BrunoLevy",
+            "repo": "geogram",
+            "stars": 2494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcut",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-04T10:28:03Z",
+            "owner": "cutdigital",
+            "repo": "mcut",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cork",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-07-28T04:32:26Z",
+            "owner": "gilbo",
+            "repo": "cork",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive And Robust Mesh Booleans",
+          "description": "This code is subject to continuous updates. Cherchi et al., 2022.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fast And Robust Mesh Arrangements",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-04-18T09:28:39Z",
+                "owner": "gcherchi",
+                "repo": "FastAndRobustMeshArrangements",
+                "stars": 172
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-02T08:38:44Z",
+            "owner": "gcherchi",
+            "repo": "InteractiveAndRobustMeshBooleans",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshIntersection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-19T20:33:33Z",
+            "owner": "sallesviana",
+            "repo": "MeshIntersection",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Carve",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "in PyMesh",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2021-06-29T03:58:27Z",
+                "owner": "PyMesh",
+                "repo": "carve",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Clipper",
+          "description": "clipping and offsetting 2D lines and polygons.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clipper2",
+              "description": "a major update.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-04-20T01:18:06Z",
+                "owner": "AngusJohnson",
+                "repo": "Clipper2",
+                "stars": 2440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyclipper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-12-01T13:06:06Z",
+                "owner": "fonttools",
+                "repo": "pyclipper",
+                "stars": 261
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MeshLab",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Before v2021.05: based on resampling, Marching intersections",
+              "description": ". A more efficient approach based on LDNI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-07-22T03:33:37Z",
+                "owner": "zishun",
+                "repo": "LDNI-based-Solid-Modeling",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Boolean Operations"
+    },
+    {
+      "description": "Survey paper: Crane et al., 2020",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "PDE-based",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Fast Marching",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kimmel and Sethian 1998",
+                  "description": ", implemented in pmp-library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-08-03T21:48:20Z",
+                    "owner": "pmp-library",
+                    "repo": "pmp-library",
+                    "stars": 1500
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "In gproshan",
+                  "description": "(CHE data structure). MeshUtility (OpenMesh data structure) .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2025-03-29T14:06:42Z",
+                    "owner": "larc",
+                    "repo": "gproshan",
+                    "stars": 76
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Window propagation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "MMP: an exact method proposed by Mitchell-Mount-Papadimitriou 1987",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "In UVAtlas",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "C++",
+                    "last_commit": "2026-04-22T19:30:49Z",
+                    "owner": "microsoft",
+                    "repo": "UVAtlas",
+                    "stars": 926
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "VTP (Vertex-oriented Triangle Propagation)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Qin et al., 2016",
+                  "description": "code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2020-12-07T12:01:04Z",
+                    "owner": "YipengQin",
+                    "repo": "VTP_source_code",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Du et al., 2020",
+                  "description": "code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2020-09-30T04:08:09Z",
+                    "owner": "djie-0329",
+                    "repo": "PVTP",
+                    "stars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Graph-based: SVG (Saddle Vertex Graph), DGG (Discrete Geodesic Graphs),",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DGG-SVG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-05-06T14:29:03Z",
+                "owner": "GeodesicGraph",
+                "repo": "DGG_and_SVG",
+                "stars": 15
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Geodesic Distance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Instant Meshes",
+          "description": "Interactive field-aligned mesh generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-03T03:31:55Z",
+            "owner": "wjakob",
+            "repo": "instant-meshes",
+            "stars": 6184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmg",
+          "description": "2D and 3D surface and volume remeshing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-11T10:06:55Z",
+            "owner": "MmgTools",
+            "repo": "mmg",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShapeOp",
+          "description": "discrete geometry shaping with projections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-07T08:07:35Z",
+            "owner": "EPFL-LGG",
+            "repo": "ShapeOp",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:56:58.558Z",
+    "original_repository": "zishun/awesome-geometry-processing",
+    "original_repository_sha": "1b696f7fb2836f1eed610a77f987c16b909bc85e",
+    "enhanced_repository": "enhansome/enhansome-geometry-processing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Libraries for Geometry Processing (GP) with stars"
+  }
+}
