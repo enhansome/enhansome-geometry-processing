@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T19:52:28Z",
+            "last_commit": "2026-08-14T08:43:23Z",
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11090
+            "stars": 11092
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-12T05:14:56Z",
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5787
+            "stars": 5790
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:31:36Z",
+            "last_commit": "2026-08-14T21:24:40Z",
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3647
+            "stars": 3649
           }
         },
         {
@@ -82,7 +82,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T11:11:02Z",
+            "last_commit": "2026-08-14T11:27:16Z",
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2738
@@ -96,10 +96,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T15:17:11Z",
+            "last_commit": "2026-08-14T08:04:55Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2494
+            "stars": 2495
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-08-11T11:42:27Z",
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2218
+            "stars": 2220
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2026-07-10T08:46:17Z",
             "owner": "daavoo",
             "repo": "pyntcloud",
-            "stars": 1499
+            "stars": 1500
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T15:27:31Z",
+            "last_commit": "2026-08-14T04:46:49Z",
             "owner": "davideberly",
             "repo": "GeometricTools",
             "stars": 1379
@@ -293,10 +293,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T21:06:57Z",
+            "last_commit": "2026-08-14T05:03:23Z",
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
-            "stars": 968
+            "stars": 970
           }
         },
         {
@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T20:06:02Z",
+            "last_commit": "2026-08-14T19:54:48Z",
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 806
@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T15:47:24Z",
+            "last_commit": "2026-08-14T15:32:51Z",
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 178
@@ -788,7 +788,7 @@
                 "last_commit": "2026-05-05T14:12:15Z",
                 "owner": "wildmeshing",
                 "repo": "fTetWild",
-                "stars": 593
+                "stars": 595
               }
             },
             {
@@ -802,7 +802,7 @@
                 "last_commit": "2025-12-22T14:22:18Z",
                 "owner": "wildmeshing",
                 "repo": "TriWild",
-                "stars": 264
+                "stars": 265
               }
             },
             {
@@ -835,10 +835,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T15:17:11Z",
+            "last_commit": "2026-08-14T08:04:55Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2494
+            "stars": 2495
           }
         },
         {
@@ -885,7 +885,7 @@
                 "last_commit": "2024-04-18T09:28:39Z",
                 "owner": "gcherchi",
                 "repo": "FastAndRobustMeshArrangements",
-                "stars": 172
+                "stars": 171
               }
             }
           ],
@@ -949,7 +949,7 @@
                 "last_commit": "2026-04-20T01:18:06Z",
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2440
+                "stars": 2445
               }
             },
             {
@@ -1138,7 +1138,7 @@
             "last_commit": "2022-01-03T03:31:55Z",
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6184
+            "stars": 6187
           }
         },
         {
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:56:58.558Z",
+    "last_updated": "2026-08-14T21:35:00.445Z",
     "original_repository": "zishun/awesome-geometry-processing",
     "original_repository_sha": "1b696f7fb2836f1eed610a77f987c16b909bc85e",
     "enhanced_repository": "enhansome/enhansome-geometry-processing",
