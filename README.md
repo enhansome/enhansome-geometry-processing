@@ -6,35 +6,35 @@
 
 ## General Libraries
 
-* [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ⭐ 11,092 | 🐛 581 | 🌐 C++ | 📅 2026-08-14
+* [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ⭐ 11,092 | 🐛 584 | 🌐 C++ | 📅 2026-08-14
   ![cpp]
   ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
   : A standalone, large scale, open project for 2D/3D image and point cloud processing.
-* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,790 | 🐛 197 | 🌐 C++ | 📅 2026-08-12
+* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,791 | 🐛 197 | 🌐 C++ | 📅 2026-08-12
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
   : An open-source system for processing and editing 3D triangular meshes.
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) ⭐ 972 | 🐛 77 | 🌐 C++ | 📅 2026-02-03
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
-* [Shapely](https://github.com/shapely/shapely) ⭐ 4,489 | 🐛 238 | 🌐 Python | 📅 2026-08-12
+* [Shapely](https://github.com/shapely/shapely) ⭐ 4,489 | 🐛 237 | 🌐 Python | 📅 2026-08-12
   ![python]
   ![star](https://img.shields.io/github/stars/shapely/shapely?style=flat)
   : for manipulation and analysis of **planar** geometric objects.
-* [trimesh](https://github.com/mikedh/trimesh) ⭐ 3,649 | 🐛 481 | 🌐 Python | 📅 2026-08-14
+* [trimesh](https://github.com/mikedh/trimesh) ⭐ 3,649 | 🐛 482 | 🌐 Python | 📅 2026-08-14
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
   : [documentation](https://trimesh.org/)
-* [Embree](https://github.com/embree/embree) ⭐ 2,738 | 🐛 71 | 🌐 C++ | 📅 2026-08-14
+* [Embree](https://github.com/embree/embree) ⭐ 2,740 | 🐛 71 | 🌐 C++ | 📅 2026-08-14
   ![cpp]
   ![star](https://img.shields.io/github/stars/embree/embree?style=flat)
   : a ray tracing library with GP modules including geometry objects, ray/point queries, collision detection, BVH, etc.
   * python bindings in Open3D and others.
-* [Geogram](https://github.com/BrunoLevy/geogram) ⭐ 2,495 | 🐛 59 | 🌐 C++ | 📅 2026-08-14
+* [Geogram](https://github.com/BrunoLevy/geogram) ⭐ 2,495 | 🐛 59 | 🌐 C++ | 📅 2026-08-15
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
   : contains the main results in GP from the former ALICE Inria project.
-* [Manifold](https://github.com/elalish/manifold) ⭐ 2,220 | 🐛 38 | 🌐 C++ | 📅 2026-08-11
+* [Manifold](https://github.com/elalish/manifold) ⭐ 2,225 | 🐛 38 | 🌐 C++ | 📅 2026-08-15
   ![cpp]
   ![star](https://img.shields.io/github/stars/elalish/manifold?style=flat)
   : a geometry library dedicated to creating and operating on manifold triangle meshes.
@@ -44,7 +44,7 @@
   : A rapid prototyping platform for geometry processing research.
   * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103) ⭐ 2,043 | 🐛 251 | 🌐 C++ | 📅 2024-08-08
   * This is not [PyMesh](https://github.com/taxpon/pymesh) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2016-10-18
-* [Easy3D](https://github.com/LiangliangNan/Easy3D/) ⭐ 1,646 | 🐛 6 | 🌐 C++ | 📅 2026-03-30
+* [Easy3D](https://github.com/LiangliangNan/Easy3D/) ⭐ 1,647 | 🐛 6 | 🌐 C++ | 📅 2026-03-30
   ![cpp]
   ![star](https://img.shields.io/github/stars/LiangliangNan/Easy3D?style=flat)
   : A lightweight and easy-to-use 3D mesh processing library.
@@ -65,7 +65,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/libgeos/geos?style=flat)
   : Geometry Engine, Open Source. Computational geometry library with a focus on algorithms used in geographic information systems (GIS). [website](https://libgeos.org/)
-* [Geometric Tools](https://github.com/davideberly/GeometricTools) ⭐ 1,379 | 🐛 3 | 🌐 C++ | 📅 2026-08-14
+* [Geometric Tools](https://github.com/davideberly/GeometricTools) ⭐ 1,378 | 🐛 3 | 🌐 C++ | 📅 2026-08-14
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
   : [website](https://www.geometrictools.com/)
@@ -81,7 +81,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
   : a generic programming header-only C++ library for processing polygonal and polyhedral meshes.
-* [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) ⭐ 970 | 🐛 0 | 🌐 C++ | 📅 2026-08-14
+* [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) ⭐ 972 | 🐛 0 | 🌐 C++ | 📅 2026-08-15
   ![cpp]
   ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat)
   : libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
@@ -89,7 +89,7 @@
   ![python] ![matlab]
   ![star](https://img.shields.io/github/stars/gpeyre/numerical-tours?style=flat)
   : includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. [website](http://www.numerical-tours.com/)
-* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 806 | 🐛 62 | 🌐 C++ | 📅 2026-08-14
+* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 806 | 🐛 63 | 🌐 C++ | 📅 2026-08-15
   ![cpp]
   ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
   : A C++ library for mesh processing and analysis by MeshInspector.
@@ -105,7 +105,7 @@
   ![python]
   ![star](https://img.shields.io/github/stars/nmwsharp/potpourri3d?style=flat)
   : mainly bindings to C++ tools from [geometry-central](https://github.com/nmwsharp/geometry-central) ⭐ 1,330 | 🐛 99 | 🌐 C++ | 📅 2026-06-13.
-* [Boost.Geometry](https://github.com/boostorg/geometry) ⭐ 515 | 🐛 158 | 🌐 C++ | 📅 2026-08-12
+* [Boost.Geometry](https://github.com/boostorg/geometry) ⭐ 515 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
   ![cpp]
   ![star](https://img.shields.io/github/stars/boostorg/geometry?style=flat)
   : convex hull, intersection (clipping), within (point in polygon), distance, envelope (bounding box), simplify, transform, and much more. supports high precision arithmetic numbers, such as ttmath. [doc](boost.org/libs/geometry)
@@ -246,10 +246,10 @@
 <details>
 <summary>more</summary>
 
-* <https://github.com/embree/embree> ⭐ 2,738 | 🐛 71 | 🌐 C++ | 📅 2026-08-14
-* <https://github.com/moderngl/moderngl> ⭐ 2,317 | 🐛 56 | 🌐 Python | 📅 2026-07-11
+* <https://github.com/embree/embree> ⭐ 2,740 | 🐛 71 | 🌐 C++ | 📅 2026-08-14
+* <https://github.com/moderngl/moderngl> ⭐ 2,318 | 🐛 56 | 🌐 Python | 📅 2026-07-11
 * <https://github.com/mmatl/pyrender> ⭐ 1,467 | 🐛 191 | 🌐 Python | 📅 2025-02-07
-* <https://github.com/enthought/mayavi> ⭐ 1,407 | 🐛 455 | 🌐 Python | 📅 2026-08-06
+* <https://github.com/enthought/mayavi> ⭐ 1,407 | 🐛 452 | 🌐 Python | 📅 2026-08-15
 * <https://github.com/cg3hci/py3DViewer> ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2023-02-23
 * <http://pyopengl.sourceforge.net/>
 * <https://pyglet.org/>
@@ -313,7 +313,7 @@
 
 ## Boolean Operations
 
-* Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806) ⭐ 2,495 | 🐛 59 | 🌐 C++ | 📅 2026-08-14.
+* Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806) ⭐ 2,495 | 🐛 59 | 🌐 C++ | 📅 2026-08-15.
 * [mcut](https://github.com/cutdigital/mcut/) ⭐ 496 | 🐛 11 | 🌐 C++ | 📅 2025-09-04
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
 * [Cork](https://github.com/gilbo/cork) ⭐ 443 | 🐛 42 | 🌐 C | 📅 2020-07-28
@@ -369,7 +369,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 ## Others
 
-* [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,187 | 🐛 97 | 🌐 C++ | 📅 2022-01-03
+* [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,184 | 🐛 97 | 🌐 C++ | 📅 2022-01-03
   ![cpp]
   ![star](https://img.shields.io/github/stars/wjakob/instant-meshes?style=flat)
   : Interactive field-aligned mesh generator
@@ -419,8 +419,8 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 # Lists on Other Computer Graphics Topics
 
 * <https://github.com/eug/awesome-opengl> ⭐ 2,432 | 🐛 0 | 📅 2026-01-09
-* <https://github.com/zheng95z/fun-with-computer-graphics> ⭐ 2,400 | 🐛 0 | 📅 2022-03-31
-* <https://github.com/ericjang/awesome-graphics> ⭐ 1,116 | 🐛 3 | 📅 2020-02-29
+* <https://github.com/zheng95z/fun-with-computer-graphics> ⭐ 2,401 | 🐛 0 | 📅 2022-03-31
+* <https://github.com/ericjang/awesome-graphics> ⭐ 1,117 | 🐛 3 | 📅 2020-02-29
 * <https://github.com/luisnts/awesome-computer-graphics> ⭐ 1,029 | 🐛 2 | 📅 2021-07-17
 * <https://github.com/waitin2010/awesome-computer-graphics> ⭐ 570 | 🐛 5 | 📅 2023-09-25
 * <https://github.com/jslee02/awesome-graphics-libraries> ⭐ 536 | 🐛 0 | 🌐 Python | 📅 2026-05-11
@@ -445,4 +445,4 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
