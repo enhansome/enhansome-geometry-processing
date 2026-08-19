@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8162615,
             "language": "C++",
             "last_commit": "2026-08-18T08:22:12Z",
             "owner": "PointCloudLibrary",
@@ -29,21 +30,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 276847607,
                 "language": "C++",
                 "last_commit": "2026-02-03T13:32:13Z",
                 "owner": "cnr-isti-vclab",
                 "repo": "PyMeshLab",
-                "stars": 972
+                "stars": 973
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 73027304,
             "language": "C++",
             "last_commit": "2026-08-12T05:14:56Z",
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5796
+            "stars": 5797
           }
         },
         {
@@ -53,8 +56,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3080613,
             "language": "Python",
-            "last_commit": "2026-08-12T07:28:20Z",
+            "last_commit": "2026-08-19T10:25:12Z",
             "owner": "shapely",
             "repo": "shapely",
             "stars": 4488
@@ -67,6 +71,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11745275,
             "language": "Python",
             "last_commit": "2026-08-18T21:01:31Z",
             "owner": "mikedh",
@@ -81,8 +86,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6946079,
             "language": "C++",
-            "last_commit": "2026-08-18T12:55:22Z",
+            "last_commit": "2026-08-19T12:25:26Z",
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2742
@@ -95,11 +101,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-18T14:10:17Z",
+            "last_commit": "2026-08-19T06:41:29Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2495
+            "stars": 2496
           }
         },
         {
@@ -109,11 +116,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172846478,
             "language": "C++",
-            "last_commit": "2026-08-18T05:30:44Z",
+            "last_commit": "2026-08-19T07:01:48Z",
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2234
+            "stars": 2236
           }
         },
         {
@@ -128,6 +136,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 36988453,
                 "language": "C++",
                 "last_commit": "2024-08-08T20:25:21Z",
                 "owner": "PyMesh",
@@ -142,6 +151,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 43285403,
                 "language": "Python",
                 "last_commit": "2016-10-18T06:39:28Z",
                 "owner": "taxpon",
@@ -152,6 +162,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 36988453,
             "language": "C++",
             "last_commit": "2024-08-08T20:25:21Z",
             "owner": "PyMesh",
@@ -166,6 +177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159520915,
             "language": "C++",
             "last_commit": "2026-03-30T16:27:37Z",
             "owner": "LiangliangNan",
@@ -180,6 +192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151787657,
             "language": "C++",
             "last_commit": "2025-09-10T00:24:36Z",
             "owner": "fwilliams",
@@ -194,6 +207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105374301,
             "language": "C++",
             "last_commit": "2026-08-03T21:48:20Z",
             "owner": "pmp-library",
@@ -208,6 +222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69888255,
             "language": "Python",
             "last_commit": "2026-07-10T08:46:17Z",
             "owner": "daavoo",
@@ -222,6 +237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2651432,
             "language": "C++",
             "last_commit": "2026-08-12T20:03:06Z",
             "owner": "libgeos",
@@ -236,6 +252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295819684,
             "language": "C++",
             "last_commit": "2026-08-14T04:46:49Z",
             "owner": "davideberly",
@@ -250,6 +267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111429681,
             "language": "C++",
             "last_commit": "2026-06-13T19:26:31Z",
             "owner": "nmwsharp",
@@ -264,11 +282,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61115594,
             "language": "C++",
             "last_commit": "2026-08-17T08:30:51Z",
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -278,11 +297,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100456759,
             "language": "C++",
-            "last_commit": "2026-06-15T08:14:53Z",
+            "last_commit": "2026-08-19T07:25:43Z",
             "owner": "mlivesu",
             "repo": "cinolib",
-            "stars": 1110
+            "stars": 1109
           }
         },
         {
@@ -292,8 +312,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77887760,
             "language": "C++",
-            "last_commit": "2026-08-18T21:01:51Z",
+            "last_commit": "2026-08-19T00:19:43Z",
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
             "stars": 972
@@ -306,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13766928,
             "language": "Jupyter Notebook",
             "last_commit": "2025-04-10T05:58:11Z",
             "owner": "gpeyre",
@@ -320,8 +342,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443066535,
             "language": "C++",
-            "last_commit": "2026-08-18T18:01:53Z",
+            "last_commit": "2026-08-19T12:27:28Z",
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 807
@@ -334,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144918193,
             "language": "Python",
             "last_commit": "2024-02-02T20:49:17Z",
             "owner": "MPI-IS",
@@ -348,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17057368,
             "language": "MATLAB",
             "last_commit": "2026-08-18T20:42:17Z",
             "owner": "alecjacobson",
@@ -362,6 +387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334329668,
             "language": "C++",
             "last_commit": "2026-03-25T04:26:00Z",
             "owner": "nmwsharp",
@@ -376,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7590021,
             "language": "C++",
             "last_commit": "2026-08-17T05:56:39Z",
             "owner": "boostorg",
@@ -390,6 +417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83953525,
             "language": "C++",
             "last_commit": "2026-08-17T05:26:06Z",
             "owner": "topology-tool-kit",
@@ -404,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1709095,
             "language": "C++",
             "last_commit": "2026-07-27T13:18:56Z",
             "owner": "DGtal-team",
@@ -418,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462782790,
             "language": "C++",
             "last_commit": "2026-07-15T07:53:51Z",
             "owner": "BrunoLevy",
@@ -432,6 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319374542,
             "language": "C++",
             "last_commit": "2026-08-18T17:31:55Z",
             "owner": "adobe",
@@ -446,6 +477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34662973,
             "language": "MATLAB",
             "last_commit": "2026-07-20T09:06:44Z",
             "owner": "mattools",
@@ -460,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430420260,
             "language": "Python",
             "last_commit": "2026-08-13T17:27:20Z",
             "owner": "sgsellan",
@@ -474,8 +507,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200015280,
             "language": "C++",
-            "last_commit": "2026-08-18T15:33:15Z",
+            "last_commit": "2026-08-19T00:12:40Z",
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 178
@@ -488,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5338587,
             "language": "C++",
             "last_commit": "2026-04-03T20:47:07Z",
             "owner": "sidch",
@@ -502,6 +537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16348089,
             "language": "C++",
             "last_commit": "2022-07-21T21:48:08Z",
             "owner": "OpenGP",
@@ -516,6 +552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88686093,
             "language": "C++",
             "last_commit": "2025-03-29T14:06:42Z",
             "owner": "larc",
@@ -530,6 +567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7589956,
             "language": "C++",
             "last_commit": "2026-08-12T11:35:26Z",
             "owner": "boostorg",
@@ -544,6 +582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287105917,
             "language": "C",
             "last_commit": "2026-05-18T13:12:45Z",
             "owner": "ultimaille",
@@ -558,6 +597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100931275,
             "language": "C++",
             "last_commit": "2021-03-12T12:05:23Z",
             "owner": "cg3hci",
@@ -572,6 +612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83976310,
             "language": "C++",
             "last_commit": "2024-05-09T09:12:25Z",
             "owner": "unclejimbo",
@@ -586,6 +627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364130388,
             "language": "C++",
             "last_commit": "2023-01-20T08:01:04Z",
             "owner": "zishun",
@@ -605,6 +647,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 178422326,
                 "language": "C++",
                 "last_commit": "2026-08-13T16:18:18Z",
                 "owner": "libigl",
@@ -613,12 +656,6 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "PyVista",
-          "description": "A Python package for 3D plotting and mesh analysis.",
-          "children": []
         },
         {
           "node_type": "group",
@@ -632,6 +669,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46727596,
                 "language": "C",
                 "last_commit": "2023-08-26T12:00:20Z",
                 "owner": "Forceflow",
@@ -645,7 +683,7 @@
       "title": "General Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -654,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111565012,
             "language": "C++",
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
@@ -668,18 +707,94 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16269045,
             "language": "C++",
             "last_commit": "2016-02-02T11:49:49Z",
             "owner": "OpenGP",
             "repo": "starlab",
             "stars": 84
           }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/embree/embree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6946079,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:25:26Z",
+            "owner": "RenderKit",
+            "repo": "embree",
+            "stars": 2742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/moderngl/moderngl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53077133,
+            "language": "Python",
+            "last_commit": "2026-07-11T18:55:59Z",
+            "owner": "moderngl",
+            "repo": "moderngl",
+            "stars": 2319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mmatl/pyrender",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166606982,
+            "language": "Python",
+            "last_commit": "2025-02-07T06:54:10Z",
+            "owner": "mmatl",
+            "repo": "pyrender",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/enthought/mayavi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288547,
+            "language": "Python",
+            "last_commit": "2026-08-15T00:37:36Z",
+            "owner": "enthought",
+            "repo": "mayavi",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cg3hci/py3DViewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206791698,
+            "language": "Python",
+            "last_commit": "2023-02-23T20:00:28Z",
+            "owner": "cg3hci",
+            "repo": "py3DViewer",
+            "stars": 35
+          }
         }
       ],
       "title": "GUI for GP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -688,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41710969,
             "language": "C",
             "last_commit": "2025-09-07T19:29:23Z",
             "owner": "qhull",
@@ -702,11 +818,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2757253,
             "language": "C++",
             "last_commit": "2026-08-10T13:25:34Z",
             "owner": "inducer",
             "repo": "meshpy",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -716,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97575728,
             "language": "C++",
             "last_commit": "2026-08-06T16:09:19Z",
             "owner": "NGSolve",
@@ -730,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54737404,
             "language": "C++",
             "last_commit": "2025-08-15T02:29:20Z",
             "owner": "dengwirda",
@@ -744,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25407733,
             "language": "C++",
             "last_commit": "2024-08-15T21:28:38Z",
             "owner": "crawforddoran",
@@ -763,6 +883,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3383143,
                 "language": "Python",
                 "last_commit": "2025-01-07T05:04:15Z",
                 "owner": "drufat",
@@ -784,6 +905,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 202774685,
                 "language": "C++",
                 "last_commit": "2026-05-05T14:12:15Z",
                 "owner": "wildmeshing",
@@ -798,6 +920,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184290352,
                 "language": "C++",
                 "last_commit": "2025-12-22T14:22:18Z",
                 "owner": "wildmeshing",
@@ -812,6 +935,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 190810870,
                 "language": "C++",
                 "last_commit": "2024-12-17T14:28:58Z",
                 "owner": "wildmeshing",
@@ -825,7 +949,7 @@
       "title": "Mesh Generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -834,11 +958,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-18T14:10:17Z",
+            "last_commit": "2026-08-19T06:41:29Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2495
+            "stars": 2496
           }
         },
         {
@@ -848,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292086523,
             "language": "C++",
             "last_commit": "2025-09-04T10:28:03Z",
             "owner": "cutdigital",
@@ -862,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8068644,
             "language": "C",
             "last_commit": "2020-07-28T04:32:26Z",
             "owner": "gilbo",
@@ -881,6 +1008,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 292506259,
                 "language": "C++",
                 "last_commit": "2024-04-18T09:28:39Z",
                 "owner": "gcherchi",
@@ -891,6 +1019,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 513936688,
             "language": "C++",
             "last_commit": "2025-07-02T08:38:44Z",
             "owner": "gcherchi",
@@ -905,6 +1034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61722616,
             "language": "C++",
             "last_commit": "2017-12-19T20:33:33Z",
             "owner": "sallesviana",
@@ -924,6 +1054,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 47889916,
                 "language": "C++",
                 "last_commit": "2021-06-29T03:58:27Z",
                 "owner": "PyMesh",
@@ -945,11 +1076,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 462938438,
                 "language": "C++",
                 "last_commit": "2026-04-20T01:18:06Z",
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2448
+                "stars": 2450
               }
             },
             {
@@ -959,6 +1091,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30908907,
                 "language": "C++",
                 "last_commit": "2025-12-01T13:06:06Z",
                 "owner": "fonttools",
@@ -980,6 +1113,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 515786082,
                 "language": "C++",
                 "last_commit": "2022-07-22T03:33:37Z",
                 "owner": "zishun",
@@ -1012,6 +1146,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 105374301,
                     "language": "C++",
                     "last_commit": "2026-08-03T21:48:20Z",
                     "owner": "pmp-library",
@@ -1026,6 +1161,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 88686093,
                     "language": "C++",
                     "last_commit": "2025-03-29T14:06:42Z",
                     "owner": "larc",
@@ -1054,6 +1190,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 33688933,
                     "language": "C++",
                     "last_commit": "2026-04-22T19:30:49Z",
                     "owner": "microsoft",
@@ -1075,6 +1212,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 58916596,
                     "language": "C++",
                     "last_commit": "2020-12-07T12:01:04Z",
                     "owner": "YipengQin",
@@ -1089,6 +1227,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 279677363,
                     "language": "C++",
                     "last_commit": "2020-09-30T04:08:09Z",
                     "owner": "djie-0329",
@@ -1112,6 +1251,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 203961960,
                 "language": "C++",
                 "last_commit": "2023-05-06T14:29:03Z",
                 "owner": "GeodesicGraph",
@@ -1125,7 +1265,7 @@
       "title": "Geodesic Distance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1134,11 +1274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42442099,
             "language": "C++",
             "last_commit": "2022-01-03T03:31:55Z",
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6186
+            "stars": 6188
           }
         },
         {
@@ -1148,6 +1289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32025808,
             "language": "C",
             "last_commit": "2026-05-11T10:06:55Z",
             "owner": "MmgTools",
@@ -1162,6 +1304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181195338,
             "language": "C++",
             "last_commit": "2020-04-07T08:07:35Z",
             "owner": "EPFL-LGG",
@@ -1171,11 +1314,225 @@
         }
       ],
       "title": "Others"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Data for machine learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100120455,
+            "language": null,
+            "last_commit": "2024-07-04T19:13:09Z",
+            "owner": "timzhang642",
+            "repo": "3D-Machine-Learning",
+            "stars": 10193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alecjacobson/common-3d-test-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246564938,
+            "language": "Forth",
+            "last_commit": "2023-04-11T07:04:40Z",
+            "owner": "alecjacobson",
+            "repo": "common-3d-test-models",
+            "stars": 1603
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/eug/awesome-opengl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37971591,
+            "language": null,
+            "last_commit": "2026-01-09T12:26:55Z",
+            "owner": "eug",
+            "repo": "awesome-opengl",
+            "stars": 2432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/zheng95z/fun-with-computer-graphics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196211092,
+            "language": null,
+            "last_commit": "2022-03-31T17:36:14Z",
+            "owner": "zheng95z",
+            "repo": "fun-with-computer-graphics",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ericjang/awesome-graphics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48450988,
+            "language": null,
+            "last_commit": "2020-02-29T22:27:34Z",
+            "owner": "ericjang",
+            "repo": "awesome-graphics",
+            "stars": 1117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/luisnts/awesome-computer-graphics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129075349,
+            "language": null,
+            "last_commit": "2021-07-17T05:48:35Z",
+            "owner": "luisdnsantos",
+            "repo": "awesome-computer-graphics",
+            "stars": 1029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/waitin2010/awesome-computer-graphics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32920165,
+            "language": null,
+            "last_commit": "2023-09-25T05:47:02Z",
+            "owner": "waitin2010",
+            "repo": "awesome-computer-graphics",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jslee02/awesome-graphics-libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174568488,
+            "language": "Python",
+            "last_commit": "2026-05-11T05:00:11Z",
+            "owner": "jslee02",
+            "repo": "awesome-graphics-libraries",
+            "stars": 535
+          }
+        }
+      ],
+      "title": "Lists on Other Computer Graphics Topics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/nschloe/awesome-scientific-computing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132509274,
+            "language": "Python",
+            "last_commit": "2026-07-20T10:32:58Z",
+            "owner": "nschloe",
+            "repo": "awesome-scientific-computing",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/fepegar/awesome-medical-imaging",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153177069,
+            "language": null,
+            "last_commit": "2026-03-17T16:32:38Z",
+            "owner": "fepegar",
+            "repo": "awesome-medical-imaging",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/RoboDonut/awesome-spatial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44335930,
+            "language": null,
+            "last_commit": "2018-01-04T14:42:48Z",
+            "owner": "RoboDonut",
+            "repo": "awesome-spatial",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ccamara/awesome-architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32380076,
+            "language": "Python",
+            "last_commit": "2018-01-07T11:50:12Z",
+            "owner": "ccamara",
+            "repo": "awesome-architecture",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/eric-erki/awesome-gis/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151362402,
+            "language": null,
+            "last_commit": "2024-07-19T19:06:40Z",
+            "owner": "eric-erki",
+            "repo": "awesome-gis",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Lists from Other Communities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:33:39.574Z",
+    "last_updated": "2026-08-19T12:29:47.756Z",
     "original_repository": "zishun/awesome-geometry-processing",
+    "original_repository_id": 475916821,
     "original_repository_sha": "1b696f7fb2836f1eed610a77f987c16b909bc85e",
     "enhanced_repository": "enhansome/enhansome-geometry-processing",
     "enhanced_repository_description": null,
