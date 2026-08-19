@@ -76,7 +76,7 @@
             "last_commit": "2026-08-18T21:01:31Z",
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3651
+            "stars": 3653
           }
         },
         {
@@ -88,7 +88,7 @@
             "archived": false,
             "id": 6946079,
             "language": "C++",
-            "last_commit": "2026-08-19T12:25:26Z",
+            "last_commit": "2026-08-19T16:07:26Z",
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2742
@@ -103,7 +103,7 @@
             "archived": false,
             "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-19T06:41:29Z",
+            "last_commit": "2026-08-19T15:49:08Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2496
@@ -121,7 +121,7 @@
             "last_commit": "2026-08-19T07:01:48Z",
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2236
+            "stars": 2237
           }
         },
         {
@@ -314,7 +314,7 @@
             "archived": false,
             "id": 77887760,
             "language": "C++",
-            "last_commit": "2026-08-19T00:19:43Z",
+            "last_commit": "2026-08-19T17:12:48Z",
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
             "stars": 972
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 443066535,
             "language": "C++",
-            "last_commit": "2026-08-19T12:27:28Z",
+            "last_commit": "2026-08-19T21:28:08Z",
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 807
@@ -464,7 +464,7 @@
             "archived": false,
             "id": 319374542,
             "language": "C++",
-            "last_commit": "2026-08-18T17:31:55Z",
+            "last_commit": "2026-08-19T19:41:26Z",
             "owner": "adobe",
             "repo": "lagrange",
             "stars": 296
@@ -724,7 +724,7 @@
             "archived": false,
             "id": 6946079,
             "language": "C++",
-            "last_commit": "2026-08-19T12:25:26Z",
+            "last_commit": "2026-08-19T16:07:26Z",
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2742
@@ -769,7 +769,7 @@
             "archived": false,
             "id": 1288547,
             "language": "Python",
-            "last_commit": "2026-08-15T00:37:36Z",
+            "last_commit": "2026-08-19T19:18:20Z",
             "owner": "enthought",
             "repo": "mayavi",
             "stars": 1407
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-19T06:41:29Z",
+            "last_commit": "2026-08-19T15:49:08Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2496
@@ -1330,7 +1330,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10193
+            "stars": 10192
           }
         },
         {
@@ -1366,7 +1366,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2432
+            "stars": 2433
           }
         },
         {
@@ -1411,7 +1411,7 @@
             "last_commit": "2021-07-17T05:48:35Z",
             "owner": "luisdnsantos",
             "repo": "awesome-computer-graphics",
-            "stars": 1029
+            "stars": 1030
           }
         },
         {
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:47.756Z",
+    "last_updated": "2026-08-19T21:35:11.444Z",
     "original_repository": "zishun/awesome-geometry-processing",
     "original_repository_id": 475916821,
     "original_repository_sha": "1b696f7fb2836f1eed610a77f987c16b909bc85e",
