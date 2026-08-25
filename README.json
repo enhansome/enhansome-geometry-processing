@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T08:22:12Z",
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11096
+            "stars": 11097
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 73027304,
             "language": "C++",
-            "last_commit": "2026-08-24T08:25:31Z",
+            "last_commit": "2026-08-24T23:07:19Z",
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5798
+            "stars": 5799
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-20T00:14:06Z",
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3655
+            "stars": 3656
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2026-08-14T04:46:49Z",
             "owner": "davideberly",
             "repo": "GeometricTools",
-            "stars": 1380
+            "stars": 1381
           }
         },
         {
@@ -284,10 +284,10 @@
             "archived": false,
             "id": 61115594,
             "language": "C++",
-            "last_commit": "2026-08-24T20:51:20Z",
+            "last_commit": "2026-08-24T22:59:32Z",
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -314,7 +314,7 @@
             "archived": false,
             "id": 77887760,
             "language": "C++",
-            "last_commit": "2026-08-24T06:15:34Z",
+            "last_commit": "2026-08-25T06:20:34Z",
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
             "stars": 971
@@ -464,7 +464,7 @@
             "archived": false,
             "id": 319374542,
             "language": "C++",
-            "last_commit": "2026-08-24T15:43:30Z",
+            "last_commit": "2026-08-24T22:07:03Z",
             "owner": "adobe",
             "repo": "lagrange",
             "stars": 297
@@ -697,7 +697,7 @@
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2198
+            "stars": 2199
           }
         },
         {
@@ -723,7 +723,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/embree/embree",
+          "title": "RenderKit/embree",
           "description": null,
           "children": [],
           "repo_info": {
@@ -738,7 +738,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/moderngl/moderngl",
+          "title": "moderngl/moderngl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -753,7 +753,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mmatl/pyrender",
+          "title": "mmatl/pyrender",
           "description": null,
           "children": [],
           "repo_info": {
@@ -768,7 +768,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/enthought/mayavi",
+          "title": "enthought/mayavi",
           "description": null,
           "children": [],
           "repo_info": {
@@ -783,7 +783,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cg3hci/py3DViewer",
+          "title": "cg3hci/py3DViewer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1336,7 +1336,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10191
+            "stars": 10192
           }
         },
         {
@@ -1362,7 +1362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/eug/awesome-opengl",
+          "title": "eug/awesome-opengl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1372,12 +1372,12 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2436
+            "stars": 2437
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zheng95z/fun-with-computer-graphics",
+          "title": "zheng95z/fun-with-computer-graphics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1392,7 +1392,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ericjang/awesome-graphics",
+          "title": "ericjang/awesome-graphics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1407,7 +1407,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/luisnts/awesome-computer-graphics",
+          "title": "luisdnsantos/awesome-computer-graphics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1422,7 +1422,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/waitin2010/awesome-computer-graphics",
+          "title": "waitin2010/awesome-computer-graphics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1437,7 +1437,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jslee02/awesome-graphics-libraries",
+          "title": "jslee02/awesome-graphics-libraries",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1458,7 +1458,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/nschloe/awesome-scientific-computing",
+          "title": "nschloe/awesome-scientific-computing",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1473,7 +1473,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fepegar/awesome-medical-imaging",
+          "title": "fepegar/awesome-medical-imaging",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1488,7 +1488,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RoboDonut/awesome-spatial",
+          "title": "RoboDonut/awesome-spatial",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1503,7 +1503,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ccamara/awesome-architecture",
+          "title": "ccamara/awesome-architecture",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1518,7 +1518,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/eric-erki/awesome-gis/",
+          "title": "eric-erki/awesome-gis",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:38:42.774Z",
+    "last_updated": "2026-08-25T06:27:38.294Z",
     "original_repository": "zishun/awesome-geometry-processing",
     "original_repository_id": 475916821,
     "original_repository_sha": "1b696f7fb2836f1eed610a77f987c16b909bc85e",
