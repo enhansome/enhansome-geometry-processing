@@ -15,8 +15,9 @@
             "last_commit": "2026-08-18T08:22:12Z",
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11101
-          }
+            "stars": 11103
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "cnr-isti-vclab",
                 "repo": "PyMeshLab",
                 "stars": 974
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ],
           "repo_info": {
@@ -46,8 +48,9 @@
             "last_commit": "2026-08-25T20:38:52Z",
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5804
-          }
+            "stars": 5803
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -61,8 +64,9 @@
             "last_commit": "2026-08-20T08:29:29Z",
             "owner": "shapely",
             "repo": "shapely",
-            "stars": 4493
-          }
+            "stars": 4494
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -76,8 +80,9 @@
             "last_commit": "2026-08-26T16:30:18Z",
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3660
-          }
+            "stars": 3661
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -92,7 +97,8 @@
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2745
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -103,11 +109,12 @@
             "archived": false,
             "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-27T07:04:22Z",
+            "last_commit": "2026-08-27T15:10:19Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2499
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -118,11 +125,12 @@
             "archived": false,
             "id": 172846478,
             "language": "C++",
-            "last_commit": "2026-08-27T10:09:49Z",
+            "last_commit": "2026-08-28T00:35:57Z",
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2248
-          }
+            "stars": 2250
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
                 "owner": "PyMesh",
                 "repo": "PyMesh",
                 "stars": 2043
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             },
             {
               "node_type": "item",
@@ -157,7 +166,8 @@
                 "owner": "taxpon",
                 "repo": "pymesh",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ],
           "repo_info": {
@@ -168,7 +178,8 @@
             "owner": "PyMesh",
             "repo": "PyMesh",
             "stars": 2043
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -179,11 +190,12 @@
             "archived": false,
             "id": 159520915,
             "language": "C++",
-            "last_commit": "2026-08-26T01:37:24Z",
+            "last_commit": "2026-08-27T15:34:06Z",
             "owner": "LiangliangNan",
             "repo": "Easy3D",
-            "stars": 1650
-          }
+            "stars": 1651
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -197,8 +209,9 @@
             "last_commit": "2025-09-10T00:24:36Z",
             "owner": "fwilliams",
             "repo": "point-cloud-utils",
-            "stars": 1549
-          }
+            "stars": 1548
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -213,7 +226,8 @@
             "owner": "pmp-library",
             "repo": "pmp-library",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -228,7 +242,8 @@
             "owner": "daavoo",
             "repo": "pyntcloud",
             "stars": 1500
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -242,8 +257,9 @@
             "last_commit": "2026-08-20T17:11:21Z",
             "owner": "libgeos",
             "repo": "geos",
-            "stars": 1494
-          }
+            "stars": 1495
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -258,7 +274,8 @@
             "owner": "davideberly",
             "repo": "GeometricTools",
             "stars": 1383
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -273,7 +290,8 @@
             "owner": "nmwsharp",
             "repo": "geometry-central",
             "stars": 1335
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -288,7 +306,8 @@
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
             "stars": 1295
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -303,7 +322,8 @@
             "owner": "mlivesu",
             "repo": "cinolib",
             "stars": 1108
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -318,7 +338,8 @@
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -333,7 +354,8 @@
             "owner": "gpeyre",
             "repo": "numerical-tours",
             "stars": 845
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -344,11 +366,12 @@
             "archived": false,
             "id": 443066535,
             "language": "C++",
-            "last_commit": "2026-08-27T11:36:45Z",
+            "last_commit": "2026-08-27T21:23:47Z",
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -363,7 +386,8 @@
             "owner": "MPI-IS",
             "repo": "mesh",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -378,7 +402,8 @@
             "owner": "alecjacobson",
             "repo": "gptoolbox",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -393,7 +418,8 @@
             "owner": "nmwsharp",
             "repo": "potpourri3d",
             "stars": 595
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -408,7 +434,8 @@
             "owner": "boostorg",
             "repo": "geometry",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -423,7 +450,8 @@
             "owner": "topology-tool-kit",
             "repo": "ttk",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -438,7 +466,8 @@
             "owner": "DGtal-team",
             "repo": "DGtal",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -453,7 +482,8 @@
             "owner": "BrunoLevy",
             "repo": "GraphiteThree",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -468,7 +498,8 @@
             "owner": "adobe",
             "repo": "lagrange",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -483,7 +514,8 @@
             "owner": "mattools",
             "repo": "matGeom",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -498,7 +530,8 @@
             "owner": "sgsellan",
             "repo": "gpytoolbox",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -513,7 +546,8 @@
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -528,7 +562,8 @@
             "owner": "sidch",
             "repo": "Thea",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -543,7 +578,8 @@
             "owner": "OpenGP",
             "repo": "OpenGP",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -558,7 +594,8 @@
             "owner": "larc",
             "repo": "gproshan",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -573,7 +610,8 @@
             "owner": "boostorg",
             "repo": "polygon",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -588,7 +626,8 @@
             "owner": "ultimaille",
             "repo": "ultimaille",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -603,7 +642,8 @@
             "owner": "cg3hci",
             "repo": "cg3lib",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -618,7 +658,8 @@
             "owner": "unclejimbo",
             "repo": "Euclid",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -633,7 +674,8 @@
             "owner": "zishun",
             "repo": "MeshUtility",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "group",
@@ -653,7 +695,8 @@
                 "owner": "libigl",
                 "repo": "libigl-python-bindings",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         },
@@ -675,7 +718,8 @@
                 "owner": "Forceflow",
                 "repo": "trimesh2",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         }
@@ -698,7 +742,8 @@
             "owner": "nmwsharp",
             "repo": "polyscope",
             "stars": 2199
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -713,7 +758,8 @@
             "owner": "OpenGP",
             "repo": "starlab",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "GUI for GP"
@@ -734,7 +780,8 @@
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2745
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -749,7 +796,8 @@
             "owner": "moderngl",
             "repo": "moderngl",
             "stars": 2321
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -764,7 +812,8 @@
             "owner": "mmatl",
             "repo": "pyrender",
             "stars": 1466
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -779,7 +828,8 @@
             "owner": "enthought",
             "repo": "mayavi",
             "stars": 1407
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -794,7 +844,8 @@
             "owner": "cg3hci",
             "repo": "py3DViewer",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "more"
@@ -815,7 +866,8 @@
             "owner": "qhull",
             "repo": "qhull",
             "stars": 824
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -829,8 +881,9 @@
             "last_commit": "2026-08-10T13:25:34Z",
             "owner": "inducer",
             "repo": "meshpy",
-            "stars": 586
-          }
+            "stars": 585
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -844,8 +897,9 @@
             "last_commit": "2026-08-26T10:36:54Z",
             "owner": "NGSolve",
             "repo": "netgen",
-            "stars": 388
-          }
+            "stars": 387
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -860,7 +914,8 @@
             "owner": "dengwirda",
             "repo": "jigsaw",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -875,7 +930,8 @@
             "owner": "crawforddoran",
             "repo": "quartet",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "group",
@@ -895,7 +951,8 @@
                 "owner": "drufat",
                 "repo": "triangle",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         },
@@ -916,8 +973,9 @@
                 "last_commit": "2026-05-05T14:12:15Z",
                 "owner": "wildmeshing",
                 "repo": "fTetWild",
-                "stars": 595
-              }
+                "stars": 596
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             },
             {
               "node_type": "item",
@@ -932,7 +990,8 @@
                 "owner": "wildmeshing",
                 "repo": "TriWild",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             },
             {
               "node_type": "item",
@@ -947,7 +1006,8 @@
                 "owner": "wildmeshing",
                 "repo": "wildmeshing-python",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         }
@@ -966,11 +1026,12 @@
             "archived": false,
             "id": 462781648,
             "language": "C++",
-            "last_commit": "2026-08-27T07:04:22Z",
+            "last_commit": "2026-08-27T15:10:19Z",
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2499
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -984,8 +1045,9 @@
             "last_commit": "2025-09-04T10:28:03Z",
             "owner": "cutdigital",
             "repo": "mcut",
-            "stars": 497
-          }
+            "stars": 498
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1062,8 @@
             "owner": "gilbo",
             "repo": "cork",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1020,7 +1083,8 @@
                 "owner": "gcherchi",
                 "repo": "FastAndRobustMeshArrangements",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ],
           "repo_info": {
@@ -1031,7 +1095,8 @@
             "owner": "gcherchi",
             "repo": "InteractiveAndRobustMeshBooleans",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1046,7 +1111,8 @@
             "owner": "sallesviana",
             "repo": "MeshIntersection",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "group",
@@ -1066,7 +1132,8 @@
                 "owner": "PyMesh",
                 "repo": "carve",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         },
@@ -1087,8 +1154,9 @@
                 "last_commit": "2026-04-20T01:18:06Z",
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2462
-              }
+                "stars": 2464
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1171,8 @@
                 "owner": "fonttools",
                 "repo": "pyclipper",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         },
@@ -1125,7 +1194,8 @@
                 "owner": "zishun",
                 "repo": "LDNI-based-Solid-Modeling",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         }
@@ -1158,7 +1228,8 @@
                     "owner": "pmp-library",
                     "repo": "pmp-library",
                     "stars": 1503
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:18:53.980Z"
                 },
                 {
                   "node_type": "item",
@@ -1173,7 +1244,8 @@
                     "owner": "larc",
                     "repo": "gproshan",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:18:53.980Z"
                 }
               ]
             }
@@ -1202,7 +1274,8 @@
                     "owner": "microsoft",
                     "repo": "UVAtlas",
                     "stars": 926
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:18:53.980Z"
                 }
               ]
             },
@@ -1224,7 +1297,8 @@
                     "owner": "YipengQin",
                     "repo": "VTP_source_code",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:18:53.980Z"
                 },
                 {
                   "node_type": "item",
@@ -1239,7 +1313,8 @@
                     "owner": "djie-0329",
                     "repo": "PVTP",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:18:53.980Z"
                 }
               ]
             }
@@ -1263,7 +1338,8 @@
                 "owner": "GeodesicGraph",
                 "repo": "DGG_and_SVG",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:18:53.980Z"
             }
           ]
         }
@@ -1286,7 +1362,8 @@
             "owner": "wjakob",
             "repo": "instant-meshes",
             "stars": 6197
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1300,8 +1377,9 @@
             "last_commit": "2026-05-11T10:06:55Z",
             "owner": "MmgTools",
             "repo": "mmg",
-            "stars": 485
-          }
+            "stars": 486
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1316,7 +1394,8 @@
             "owner": "EPFL-LGG",
             "repo": "ShapeOp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "Others"
@@ -1336,8 +1415,9 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10194
-          }
+            "stars": 10196
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1352,7 +1432,8 @@
             "owner": "alecjacobson",
             "repo": "common-3d-test-models",
             "stars": 1606
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "Data"
@@ -1373,7 +1454,8 @@
             "owner": "eug",
             "repo": "awesome-opengl",
             "stars": 2437
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1387,8 +1469,9 @@
             "last_commit": "2022-03-31T17:36:14Z",
             "owner": "zheng95z",
             "repo": "fun-with-computer-graphics",
-            "stars": 2401
-          }
+            "stars": 2400
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1403,7 +1486,8 @@
             "owner": "ericjang",
             "repo": "awesome-graphics",
             "stars": 1117
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1418,7 +1502,8 @@
             "owner": "luisdnsantos",
             "repo": "awesome-computer-graphics",
             "stars": 1032
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1432,8 +1517,9 @@
             "last_commit": "2023-09-25T05:47:02Z",
             "owner": "waitin2010",
             "repo": "awesome-computer-graphics",
-            "stars": 571
-          }
+            "stars": 570
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1448,7 +1534,8 @@
             "owner": "jslee02",
             "repo": "awesome-graphics-libraries",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "Lists on Other Computer Graphics Topics"
@@ -1469,7 +1556,8 @@
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
             "stars": 1583
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1484,7 +1572,8 @@
             "owner": "fepegar",
             "repo": "awesome-medical-imaging",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1499,7 +1588,8 @@
             "owner": "RoboDonut",
             "repo": "awesome-spatial",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1514,7 +1604,8 @@
             "owner": "ccamara",
             "repo": "awesome-architecture",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         },
         {
           "node_type": "item",
@@ -1529,14 +1620,15 @@
             "owner": "eric-erki",
             "repo": "awesome-gis",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
         }
       ],
       "title": "Lists from Other Communities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:02.908Z",
+    "last_updated": "2026-08-28T05:18:53.980Z",
     "original_repository_info": {
       "archived": false,
       "id": 475916821,
