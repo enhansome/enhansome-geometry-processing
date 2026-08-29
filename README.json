@@ -15,8 +15,8 @@
             "id": 8162615,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T16:15:22Z",
-            "open_issues": 579,
+            "last_commit": "2026-08-29T07:59:18Z",
+            "open_issues": 577,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
             "stars": 11103,
@@ -69,7 +69,7 @@
             "open_issues": 194,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5804,
+            "stars": 5806,
             "topics": [
               "3d",
               "3d-models",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T18:57:52Z",
-            "open_issues": 481,
+            "open_issues": 482,
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "geometry",
               "mesh",
@@ -198,7 +198,7 @@
             "open_issues": 38,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2251,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -305,7 +305,7 @@
             "open_issues": 5,
             "owner": "LiangliangNan",
             "repo": "Easy3D",
-            "stars": 1651,
+            "stars": 1652,
             "topics": [
               "3d-modeling",
               "computer-graphics",
@@ -449,7 +449,7 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-20T17:11:21Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "libgeos",
             "repo": "geos",
             "stars": 1495,
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-25T06:59:27Z",
+            "last_commit": "2026-08-29T18:21:21Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -823,7 +823,7 @@
             "id": 462782790,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-15T07:53:51Z",
+            "last_commit": "2026-08-29T16:15:08Z",
             "open_issues": 12,
             "owner": "BrunoLevy",
             "repo": "GraphiteThree",
@@ -908,7 +908,7 @@
             "open_issues": 9,
             "owner": "sgsellan",
             "repo": "gpytoolbox",
-            "stars": 277,
+            "stars": 276,
             "topics": [
               "geometry",
               "geometry-processing",
@@ -1447,7 +1447,7 @@
             "open_issues": 18,
             "owner": "inducer",
             "repo": "meshpy",
-            "stars": 585,
+            "stars": 586,
             "topics": [
               "gmsh",
               "mesh-generation",
@@ -1851,7 +1851,7 @@
                 "open_issues": 25,
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2464,
+                "stars": 2465,
                 "topics": [
                   "algorithm",
                   "boolean-operations",
@@ -2167,7 +2167,7 @@
             "open_issues": 97,
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6198,
+            "stars": 6199,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2254,7 +2254,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10196,
+            "stars": 10195,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -2585,7 +2585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:20.027Z",
+    "last_updated": "2026-08-29T23:14:18.352Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
