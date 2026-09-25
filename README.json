@@ -19,7 +19,7 @@
             "open_issues": 572,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11131,
+            "stars": 11132,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -121,10 +121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-22T02:03:23Z",
-            "open_issues": 479,
+            "open_issues": 480,
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3686,
+            "stars": 3688,
             "topics": [
               "geometry",
               "mesh",
@@ -194,11 +194,11 @@
             "id": 172846478,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T09:59:08Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-25T10:31:13Z",
+            "open_issues": 30,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2290,
+            "stars": 2294,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -342,7 +342,7 @@
             "open_issues": 38,
             "owner": "fwilliams",
             "repo": "point-cloud-utils",
-            "stars": 1554,
+            "stars": 1555,
             "topics": [
               "chamfer-distance",
               "geometry",
@@ -364,6 +364,32 @@
               "sampling",
               "sinkhorn",
               "sinkhorn-distance"
+            ]
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GEOS",
+          "description": "Geometry Engine, Open Source. Computational geometry library with a focus on algorithms used in geographic information systems (GIS). website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Geometry Engine, Open Source",
+            "homepage": "https://libgeos.org",
+            "id": 2651432,
+            "language": "C++",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-09-21T16:48:19Z",
+            "open_issues": 131,
+            "owner": "libgeos",
+            "repo": "geos",
+            "stars": 1508,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "geometry"
             ]
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -401,32 +427,6 @@
               "surface-mesh",
               "triangle-mesh",
               "triangulation"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:53.980Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GEOS",
-          "description": "Geometry Engine, Open Source. Computational geometry library with a focus on algorithms used in geographic information systems (GIS). website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Geometry Engine, Open Source",
-            "homepage": "https://libgeos.org",
-            "id": 2651432,
-            "language": "C++",
-            "license": "LGPL-2.1",
-            "last_commit": "2026-09-21T16:48:19Z",
-            "open_issues": 131,
-            "owner": "libgeos",
-            "repo": "geos",
-            "stars": 1507,
-            "topics": [
-              "c",
-              "c-plus-plus",
-              "cpp",
-              "geometry"
             ]
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -516,7 +516,7 @@
             "id": 61115594,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T21:11:57Z",
+            "last_commit": "2026-09-25T15:32:16Z",
             "open_issues": 80,
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:14:18Z",
+            "last_commit": "2026-09-25T05:37:52Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -624,11 +624,11 @@
             "id": 443066535,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T18:06:35Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-25T18:07:01Z",
+            "open_issues": 35,
             "owner": "MeshInspector",
             "repo": "MeshLib",
-            "stars": 824,
+            "stars": 826,
             "topics": [
               "3d",
               "3d-printing",
@@ -766,7 +766,7 @@
             "open_issues": 23,
             "owner": "topology-tool-kit",
             "repo": "ttk",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "c-plus-plus",
               "contour-tree",
@@ -796,7 +796,7 @@
             "id": 1709095,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-24T09:32:36Z",
+            "last_commit": "2026-09-25T15:22:08Z",
             "open_issues": 41,
             "owner": "DGtal-team",
             "repo": "DGtal",
@@ -1027,7 +1027,7 @@
             "id": 7589956,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-12T11:35:26Z",
+            "last_commit": "2026-09-25T06:59:32Z",
             "open_issues": 55,
             "owner": "boostorg",
             "repo": "polygon",
@@ -1170,7 +1170,7 @@
                 "open_issues": 3,
                 "owner": "libigl",
                 "repo": "libigl-python-bindings",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "conda",
                   "easy-to-use",
@@ -1416,7 +1416,7 @@
             "open_issues": 30,
             "owner": "qhull",
             "repo": "qhull",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "computational-geometry",
               "convex-hull",
@@ -1472,7 +1472,7 @@
             "id": 97575728,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-23T08:52:47Z",
+            "last_commit": "2026-09-25T07:49:36Z",
             "open_issues": 116,
             "owner": "NGSolve",
             "repo": "netgen",
@@ -1851,7 +1851,7 @@
                 "open_issues": 30,
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2494,
+                "stars": 2493,
                 "topics": [
                   "algorithm",
                   "boolean-operations",
@@ -2167,7 +2167,7 @@
             "open_issues": 97,
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6226,
+            "stars": 6227,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2184,7 +2184,7 @@
             "id": 32025808,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-05-11T10:06:55Z",
+            "last_commit": "2026-09-25T14:31:50Z",
             "open_issues": 48,
             "owner": "MmgTools",
             "repo": "mmg",
@@ -2254,7 +2254,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10203,
+            "stars": 10202,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -2420,7 +2420,7 @@
             "open_issues": 5,
             "owner": "waitin2010",
             "repo": "awesome-computer-graphics",
-            "stars": 573,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2476,7 +2476,7 @@
             "open_issues": 19,
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1592,
+            "stars": 1594,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2585,7 +2585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:50:49.531Z",
+    "last_updated": "2026-09-25T23:55:28.813Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
