@@ -89,7 +89,7 @@
   ![python] ![matlab]
   ![star](https://img.shields.io/github/stars/gpeyre/numerical-tours?style=flat)
   : includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. [website](http://www.numerical-tours.com/)
-* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 827 | 🐛 34 | 🌐 C++ | 📅 2026-10-02
+* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 828 | 🐛 34 | 🌐 C++ | 📅 2026-10-02
   ![cpp]
   ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
   : A C++ library for mesh processing and analysis by MeshInspector.
@@ -122,7 +122,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
   : an experimental 3D modeler, built around geogram.
-* [Lagrange (Adobe)](https://github.com/adobe/lagrange/) ⭐ 298 | 🐛 4 | 🌐 C++ | 📅 2026-10-01
+* [Lagrange (Adobe)](https://github.com/adobe/lagrange/) ⭐ 298 | 🐛 3 | 🌐 C++ | 📅 2026-10-03
   ![cpp]
   ![star](https://img.shields.io/github/stars/adobe/lagrange?style=flat)
   : A robust GP library. [Doc](opensource.adobe.com/lagrange-docs/).
@@ -421,7 +421,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * <https://github.com/eug/awesome-opengl> ⭐ 2,446 | 🐛 0 | 📅 2026-01-09
 * <https://github.com/zheng95z/fun-with-computer-graphics> ⭐ 2,400 | 🐛 0 | 📅 2022-03-31
 * <https://github.com/ericjang/awesome-graphics> ⭐ 1,118 | 🐛 3 | 📅 2020-02-29
-* <https://github.com/luisnts/awesome-computer-graphics> ⭐ 1,040 | 🐛 2 | 📅 2021-07-17
+* <https://github.com/luisnts/awesome-computer-graphics> ⭐ 1,041 | 🐛 2 | 📅 2021-07-17
 * <https://github.com/waitin2010/awesome-computer-graphics> ⭐ 572 | 🐛 5 | 📅 2023-09-25
 * <https://github.com/jslee02/awesome-graphics-libraries> ⭐ 541 | 🐛 0 | 🌐 Python | 📅 2026-05-11
 * <https://github.com/tensorush/Awesome-3D-Programming>
