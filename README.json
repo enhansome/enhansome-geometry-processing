@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T09:42:27Z",
-            "open_issues": 574,
+            "open_issues": 575,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11148,
+            "stars": 11151,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -69,7 +69,7 @@
             "open_issues": 195,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5856,
+            "stars": 5858,
             "topics": [
               "3d",
               "3d-models",
@@ -99,7 +99,7 @@
             "id": 3080613,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T09:00:08Z",
+            "last_commit": "2026-10-09T07:47:41Z",
             "open_issues": 226,
             "owner": "shapely",
             "repo": "shapely",
@@ -121,7 +121,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T21:06:16Z",
-            "open_issues": 479,
+            "open_issues": 481,
             "owner": "mikedh",
             "repo": "trimesh",
             "stars": 3694,
@@ -150,7 +150,7 @@
             "open_issues": 79,
             "owner": "RenderKit",
             "repo": "embree",
-            "stars": 2764,
+            "stars": 2763,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T04:43:37Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2341,
+            "stars": 2344,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -474,11 +474,11 @@
             "id": 295819684,
             "language": "C++",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-05T22:47:53Z",
+            "last_commit": "2026-10-09T19:35:21Z",
             "open_issues": 3,
             "owner": "davideberly",
             "repo": "GeometricTools",
-            "stars": 1387,
+            "stars": 1386,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -516,7 +516,7 @@
             "id": 61115594,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T05:00:22Z",
+            "last_commit": "2026-10-09T13:06:27Z",
             "open_issues": 82,
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-09T00:16:37Z",
+            "last_commit": "2026-10-09T04:13:08Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -633,8 +633,8 @@
             "id": 443066535,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T17:52:25Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-09T21:08:25Z",
+            "open_issues": 29,
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 830,
@@ -696,11 +696,11 @@
             "id": 17057368,
             "language": "MATLAB",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T13:25:33Z",
+            "last_commit": "2026-10-09T19:57:28Z",
             "open_issues": 75,
             "owner": "alecjacobson",
             "repo": "gptoolbox",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -739,7 +739,7 @@
             "language": "C++",
             "license": "BSL-1.0",
             "last_commit": "2026-10-07T07:54:44Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "boostorg",
             "repo": "geometry",
             "stars": 516,
@@ -858,7 +858,7 @@
             "id": 319374542,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T18:36:49Z",
+            "last_commit": "2026-10-10T00:04:45Z",
             "open_issues": 3,
             "owner": "adobe",
             "repo": "lagrange",
@@ -917,7 +917,7 @@
             "open_issues": 9,
             "owner": "sgsellan",
             "repo": "gpytoolbox",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "geometry",
               "geometry-processing",
@@ -938,8 +938,8 @@
             "id": 200015280,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:56:33Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-10T00:28:36Z",
+            "open_issues": 17,
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 179,
@@ -1250,7 +1250,7 @@
             "open_issues": 127,
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2214,
+            "stars": 2215,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1294,7 +1294,7 @@
                 "open_issues": 79,
                 "owner": "RenderKit",
                 "repo": "embree",
-                "stars": 2764,
+                "stars": 2763,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 191,
                 "owner": "mmatl",
                 "repo": "pyrender",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "3d-graphics",
                   "gltf-viewer",
@@ -1482,7 +1482,7 @@
             "id": 97575728,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-08T22:12:25Z",
+            "last_commit": "2026-10-09T04:52:04Z",
             "open_issues": 115,
             "owner": "NGSolve",
             "repo": "netgen",
@@ -1595,7 +1595,7 @@
                 "open_issues": 39,
                 "owner": "wildmeshing",
                 "repo": "fTetWild",
-                "stars": 607,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1861,7 +1861,7 @@
                 "open_issues": 32,
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2497,
+                "stars": 2499,
                 "topics": [
                   "algorithm",
                   "boolean-operations",
@@ -2264,7 +2264,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10202,
+            "stars": 10203,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -2296,7 +2296,7 @@
             "open_issues": 4,
             "owner": "alecjacobson",
             "repo": "common-3d-test-models",
-            "stars": 1630,
+            "stars": 1631,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2323,7 +2323,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2447,
+            "stars": 2448,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2356,7 +2356,7 @@
             "open_issues": 0,
             "owner": "zheng95z",
             "repo": "fun-with-computer-graphics",
-            "stars": 2403,
+            "stars": 2404,
             "topics": [
               "computer-graphics"
             ]
@@ -2595,7 +2595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:09:52.118Z",
+    "last_updated": "2026-10-10T00:43:30.667Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
