@@ -6,26 +6,26 @@
 
 ## General Libraries
 
-* [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ⭐ 11,151 | 🐛 575 | 🌐 C++ | 📅 2026-10-06
+* [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ⭐ 11,152 | 🐛 573 | 🌐 C++ | 📅 2026-10-10
   ![cpp]
   ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
   : A standalone, large scale, open project for 2D/3D image and point cloud processing.
-* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,858 | 🐛 195 | 🌐 C++ | 📅 2026-08-25
+* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,859 | 🐛 195 | 🌐 C++ | 📅 2026-08-25
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
   : An open-source system for processing and editing 3D triangular meshes.
-  * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) ⭐ 980 | 🐛 77 | 🌐 C++ | 📅 2026-02-03
+  * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) ⭐ 981 | 🐛 77 | 🌐 C++ | 📅 2026-02-03
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
 * [Shapely](https://github.com/shapely/shapely) ⭐ 4,521 | 🐛 226 | 🌐 Python | 📅 2026-10-09
   ![python]
   ![star](https://img.shields.io/github/stars/shapely/shapely?style=flat)
   : for manipulation and analysis of **planar** geometric objects.
-* [trimesh](https://github.com/mikedh/trimesh) ⭐ 3,694 | 🐛 481 | 🌐 Python | 📅 2026-10-02
+* [trimesh](https://github.com/mikedh/trimesh) ⭐ 3,695 | 🐛 481 | 🌐 Python | 📅 2026-10-02
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
   : [documentation](https://trimesh.org/)
-* [Embree](https://github.com/embree/embree) ⭐ 2,763 | 🐛 79 | 🌐 C++ | 📅 2026-10-07
+* [Embree](https://github.com/embree/embree) ⭐ 2,764 | 🐛 79 | 🌐 C++ | 📅 2026-10-07
   ![cpp]
   ![star](https://img.shields.io/github/stars/embree/embree?style=flat)
   : a ray tracing library with GP modules including geometry objects, ray/point queries, collision detection, BVH, etc.
@@ -34,15 +34,15 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
   : contains the main results in GP from the former ALICE Inria project.
-* [Manifold](https://github.com/elalish/manifold) ⭐ 2,344 | 🐛 37 | 🌐 C++ | 📅 2026-10-08
+* [Manifold](https://github.com/elalish/manifold) ⭐ 2,345 | 🐛 37 | 🌐 C++ | 📅 2026-10-10
   ![cpp]
   ![star](https://img.shields.io/github/stars/elalish/manifold?style=flat)
   : a geometry library dedicated to creating and operating on manifold triangle meshes.
-* [PyMesh(2)](https://github.com/PyMesh/PyMesh) ⭐ 2,050 | 🐛 251 | 🌐 C++ | 📅 2024-08-08
+* [PyMesh(2)](https://github.com/PyMesh/PyMesh) ⭐ 2,051 | 🐛 251 | 🌐 C++ | 📅 2024-08-08
   ![python]
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
   : A rapid prototyping platform for geometry processing research.
-  * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103) ⭐ 2,050 | 🐛 251 | 🌐 C++ | 📅 2024-08-08
+  * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103) ⭐ 2,051 | 🐛 251 | 🌐 C++ | 📅 2024-08-08
   * This is not [PyMesh](https://github.com/taxpon/pymesh) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2016-10-18
 * [Easy3D](https://github.com/LiangliangNan/Easy3D/) ⭐ 1,656 | 🐛 5 | 🌐 C++ | 📅 2026-08-27
   ![cpp]
@@ -69,7 +69,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
   : [website](https://www.geometrictools.com/)
-* [Geometry Central](https://github.com/nmwsharp/geometry-central) ⭐ 1,341 | 🐛 100 | 🌐 C++ | 📅 2026-06-13
+* [Geometry Central](https://github.com/nmwsharp/geometry-central) ⭐ 1,342 | 🐛 100 | 🌐 C++ | 📅 2026-06-13
   ![cpp]
   ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central?style=flat)
   : [doc](http://geometry-central.net/)
@@ -81,7 +81,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
   : a generic programming header-only C++ library for processing polygonal and polyhedral meshes.
-* [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) ⭐ 977 | 🐛 0 | 🌐 C++ | 📅 2026-10-09
+* [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) ⭐ 977 | 🐛 0 | 🌐 C++ | 📅 2026-10-10
   ![cpp]
   ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat)
   : libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
@@ -89,7 +89,7 @@
   ![python] ![matlab]
   ![star](https://img.shields.io/github/stars/gpeyre/numerical-tours?style=flat)
   : includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. [website](http://www.numerical-tours.com/)
-* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 830 | 🐛 29 | 🌐 C++ | 📅 2026-10-09
+* [MeshLib](https://github.com/MeshInspector/MeshLib) ⭐ 832 | 🐛 31 | 🌐 C++ | 📅 2026-10-10
   ![cpp]
   ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
   : A C++ library for mesh processing and analysis by MeshInspector.
@@ -104,7 +104,7 @@
 * [potpourri3d](https://github.com/nmwsharp/potpourri3d) ⭐ 596 | 🐛 19 | 🌐 C++ | 📅 2026-03-25
   ![python]
   ![star](https://img.shields.io/github/stars/nmwsharp/potpourri3d?style=flat)
-  : mainly bindings to C++ tools from [geometry-central](https://github.com/nmwsharp/geometry-central) ⭐ 1,341 | 🐛 100 | 🌐 C++ | 📅 2026-06-13.
+  : mainly bindings to C++ tools from [geometry-central](https://github.com/nmwsharp/geometry-central) ⭐ 1,342 | 🐛 100 | 🌐 C++ | 📅 2026-06-13.
 * [Boost.Geometry](https://github.com/boostorg/geometry) ⭐ 516 | 🐛 160 | 🌐 C++ | 📅 2026-10-07
   ![cpp]
   ![star](https://img.shields.io/github/stars/boostorg/geometry?style=flat)
@@ -130,7 +130,7 @@
   ![matlab]
   ![star](https://img.shields.io/github/stars/mattools/matGeom?style=flat)
   : Matlab geometry toolbox for 2D/3D geometric computing.
-* [gpytoolbox](https://github.com/sgsellan/gpytoolbox) ⭐ 279 | 🐛 9 | 🌐 Python | 📅 2026-10-07
+* [gpytoolbox](https://github.com/sgsellan/gpytoolbox) ⭐ 280 | 🐛 9 | 🌐 Python | 📅 2026-10-07
   ![python]
   ![star](https://img.shields.io/github/stars/sgsellan/gpytoolbox?style=flat)
   : A Python toolbox for geometry processing.
@@ -186,7 +186,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/libigl/libigl?style=flat)
   : A simple C++ geometry processing library.
-  * [libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) ⭐ 370 | 🐛 3 | 🌐 C++ | 📅 2026-09-04
+  * [libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) ⭐ 371 | 🐛 3 | 🌐 C++ | 📅 2026-09-04
     ![python]
     ![star](https://img.shields.io/github/stars/libigl/libigl-python-bindings?style=flat)
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
@@ -246,8 +246,8 @@
 <details>
 <summary>more</summary>
 
-* <https://github.com/embree/embree> ⭐ 2,763 | 🐛 79 | 🌐 C++ | 📅 2026-10-07
-* <https://github.com/moderngl/moderngl> ⭐ 2,330 | 🐛 59 | 🌐 Python | 📅 2026-10-07
+* <https://github.com/embree/embree> ⭐ 2,764 | 🐛 79 | 🌐 C++ | 📅 2026-10-07
+* <https://github.com/moderngl/moderngl> ⭐ 2,329 | 🐛 59 | 🌐 Python | 📅 2026-10-07
 * <https://github.com/mmatl/pyrender> ⭐ 1,473 | 🐛 191 | 🌐 Python | 📅 2025-02-07
 * <https://github.com/enthought/mayavi> ⭐ 1,413 | 🐛 454 | 🌐 Python | 📅 2026-10-01
 * <https://github.com/cg3hci/py3DViewer> ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2023-02-23
@@ -329,10 +329,10 @@
     library](https://doc.cgal.org/latest/Manual/packages.html#PkgPolygonMeshProcessing)
   * 3D Boolean Operations on [Nef Polyhedra](https://doc.cgal.org/latest/Manual/packages.html#PkgNef3).
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
-  * [Clipper2](https://github.com/AngusJohnson/Clipper2) ⭐ 2,499 | 🐛 32 | 🌐 C++ | 📅 2026-04-20
+  * [Clipper2](https://github.com/AngusJohnson/Clipper2) ⭐ 2,501 | 🐛 32 | 🌐 C++ | 📅 2026-04-20
     ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2?style=flat)
     : a major update.
-  * [pyclipper](https://github.com/fonttools/pyclipper) ⭐ 261 | 🐛 25 | 🌐 C++ | 📅 2025-12-01
+  * [pyclipper](https://github.com/fonttools/pyclipper) ⭐ 262 | 🐛 25 | 🌐 C++ | 📅 2025-12-01
     ![python]
     ![star](https://img.shields.io/github/stars/fonttools/pyclipper?style=flat)
 * MeshLab
@@ -369,7 +369,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 ## Others
 
-* [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,243 | 🐛 98 | 🌐 C++ | 📅 2022-01-03
+* [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,244 | 🐛 98 | 🌐 C++ | 📅 2022-01-03
   ![cpp]
   ![star](https://img.shields.io/github/stars/wjakob/instant-meshes?style=flat)
   : Interactive field-aligned mesh generator
@@ -404,8 +404,8 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 # Data
 
-* [Data for machine learning](https://github.com/timzhang642/3D-Machine-Learning#datasets) ⭐ 10,203 | 🐛 21 | 📅 2024-07-04
-* [alecjacobson/common-3d-test-models](https://github.com/alecjacobson/common-3d-test-models) ⭐ 1,631 | 🐛 4 | 🌐 Forth | 📅 2023-04-11
+* [Data for machine learning](https://github.com/timzhang642/3D-Machine-Learning#datasets) ⭐ 10,204 | 🐛 21 | 📅 2024-07-04
+* [alecjacobson/common-3d-test-models](https://github.com/alecjacobson/common-3d-test-models) ⭐ 1,632 | 🐛 4 | 🌐 Forth | 📅 2023-04-11
   * more links inside
 
 # Other Lists on Geometry Processing (GP)
@@ -418,7 +418,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 # Lists on Other Computer Graphics Topics
 
-* <https://github.com/eug/awesome-opengl> ⭐ 2,448 | 🐛 0 | 📅 2026-01-09
+* <https://github.com/eug/awesome-opengl> ⭐ 2,449 | 🐛 0 | 📅 2026-01-09
 * <https://github.com/zheng95z/fun-with-computer-graphics> ⭐ 2,404 | 🐛 0 | 📅 2022-03-31
 * <https://github.com/ericjang/awesome-graphics> ⭐ 1,119 | 🐛 3 | 📅 2020-02-29
 * <https://github.com/luisnts/awesome-computer-graphics> ⭐ 1,044 | 🐛 2 | 📅 2021-07-17
@@ -445,4 +445,4 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
