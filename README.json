@@ -19,7 +19,7 @@
             "open_issues": 577,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11204,
+            "stars": 11208,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -69,7 +69,7 @@
             "open_issues": 197,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5903,
+            "stars": 5904,
             "topics": [
               "3d",
               "3d-models",
@@ -99,8 +99,8 @@
             "id": 3080613,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T22:41:09Z",
-            "open_issues": 227,
+            "last_commit": "2026-11-05T08:41:18Z",
+            "open_issues": 231,
             "owner": "shapely",
             "repo": "shapely",
             "stars": 4537,
@@ -124,7 +124,7 @@
             "open_issues": 480,
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3715,
+            "stars": 3716,
             "topics": [
               "geometry",
               "mesh",
@@ -167,11 +167,11 @@
             "id": 462781648,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T21:29:19Z",
+            "last_commit": "2026-11-05T09:54:03Z",
             "open_issues": 69,
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2573,
+            "stars": 2574,
             "topics": [
               "geometry-processing",
               "graphics-libraries",
@@ -194,11 +194,11 @@
             "id": 172846478,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:03:18Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-05T20:22:17Z",
+            "open_issues": 32,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2390,
+            "stars": 2391,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -224,7 +224,7 @@
                 "open_issues": 251,
                 "owner": "PyMesh",
                 "repo": "PyMesh",
-                "stars": 2050,
+                "stars": 2051,
                 "topics": [
                   "3d",
                   "convex-hull",
@@ -273,7 +273,7 @@
             "open_issues": 251,
             "owner": "PyMesh",
             "repo": "PyMesh",
-            "stars": 2050,
+            "stars": 2051,
             "topics": [
               "3d",
               "convex-hull",
@@ -301,11 +301,11 @@
             "id": 159520915,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T00:16:00Z",
+            "last_commit": "2026-11-05T23:15:10Z",
             "open_issues": 5,
             "owner": "LiangliangNan",
             "repo": "Easy3D",
-            "stars": 1660,
+            "stars": 1659,
             "topics": [
               "3d-modeling",
               "computer-graphics",
@@ -380,11 +380,11 @@
             "id": 2651432,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-03T12:10:21Z",
-            "open_issues": 147,
+            "last_commit": "2026-11-05T14:12:07Z",
+            "open_issues": 144,
             "owner": "libgeos",
             "repo": "geos",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "c",
               "c-plus-plus",
@@ -520,7 +520,7 @@
             "open_issues": 83,
             "owner": "cnr-isti-vclab",
             "repo": "vcglib",
-            "stars": 1296,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:20:48Z",
+            "last_commit": "2026-11-05T06:51:43Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -633,8 +633,8 @@
             "id": 443066535,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T22:00:33Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-05T20:13:34Z",
+            "open_issues": 32,
             "owner": "MeshInspector",
             "repo": "MeshLib",
             "stars": 842,
@@ -772,7 +772,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-25T16:44:25Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "topology-tool-kit",
             "repo": "ttk",
             "stars": 481,
@@ -858,8 +858,8 @@
             "id": 319374542,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T00:01:48Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-05T16:45:28Z",
+            "open_issues": 3,
             "owner": "adobe",
             "repo": "lagrange",
             "stars": 299,
@@ -938,7 +938,7 @@
             "id": 200015280,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:57:25Z",
+            "last_commit": "2026-11-05T15:23:00Z",
             "open_issues": 17,
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
@@ -1486,7 +1486,7 @@
             "open_issues": 117,
             "owner": "NGSolve",
             "repo": "netgen",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "mesh-generator"
             ]
@@ -1505,7 +1505,7 @@
             "id": 54737404,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T03:22:15Z",
+            "last_commit": "2026-11-06T00:19:50Z",
             "open_issues": 6,
             "owner": "dengwirda",
             "repo": "jigsaw",
@@ -1672,11 +1672,11 @@
             "id": 462781648,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T21:29:19Z",
+            "last_commit": "2026-11-05T09:54:03Z",
             "open_issues": 69,
             "owner": "BrunoLevy",
             "repo": "geogram",
-            "stars": 2573,
+            "stars": 2574,
             "topics": [
               "geometry-processing",
               "graphics-libraries",
@@ -2177,7 +2177,7 @@
             "open_issues": 99,
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6285,
+            "stars": 6288,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2194,8 +2194,8 @@
             "id": 32025808,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T11:06:56Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-05T17:26:29Z",
+            "open_issues": 52,
             "owner": "MmgTools",
             "repo": "mmg",
             "stars": 491,
@@ -2264,7 +2264,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10219,
+            "stars": 10220,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -2296,7 +2296,7 @@
             "open_issues": 4,
             "owner": "alecjacobson",
             "repo": "common-3d-test-models",
-            "stars": 1645,
+            "stars": 1646,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2379,7 +2379,7 @@
             "open_issues": 3,
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1123,
+            "stars": 1124,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2451,7 +2451,7 @@
             "open_issues": 2,
             "owner": "jslee02",
             "repo": "awesome-graphics-libraries",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "3d-game-engine",
               "3d-graphics",
@@ -2595,7 +2595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:25:47.895Z",
+    "last_updated": "2026-11-06T01:29:20.610Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
