@@ -19,7 +19,7 @@
             "open_issues": 581,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11214,
+            "stars": 11218,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -52,7 +52,7 @@
                 "open_issues": 78,
                 "owner": "cnr-isti-vclab",
                 "repo": "PyMeshLab",
-                "stars": 984,
+                "stars": 985,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:53.980Z"
@@ -69,7 +69,7 @@
             "open_issues": 197,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5908,
+            "stars": 5909,
             "topics": [
               "3d",
               "3d-models",
@@ -121,7 +121,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-09T01:57:51Z",
-            "open_issues": 482,
+            "open_issues": 483,
             "owner": "mikedh",
             "repo": "trimesh",
             "stars": 3719,
@@ -147,7 +147,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T12:27:43Z",
-            "open_issues": 78,
+            "open_issues": 80,
             "owner": "RenderKit",
             "repo": "embree",
             "stars": 2774,
@@ -194,11 +194,11 @@
             "id": 172846478,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T02:44:33Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-10T19:55:40Z",
+            "open_issues": 38,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2400,
+            "stars": 2401,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -301,7 +301,7 @@
             "id": 159520915,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T16:03:54Z",
+            "last_commit": "2026-11-10T21:01:36Z",
             "open_issues": 5,
             "owner": "LiangliangNan",
             "repo": "Easy3D",
@@ -381,10 +381,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-11-08T17:16:45Z",
-            "open_issues": 152,
+            "open_issues": 154,
             "owner": "libgeos",
             "repo": "geos",
-            "stars": 1519,
+            "stars": 1520,
             "topics": [
               "c",
               "c-plus-plus",
@@ -478,7 +478,7 @@
             "open_issues": 4,
             "owner": "davideberly",
             "repo": "GeometricTools",
-            "stars": 1395,
+            "stars": 1396,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:23:23Z",
+            "last_commit": "2026-11-10T20:08:08Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -633,11 +633,11 @@
             "id": 443066535,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T21:58:47Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-10T22:58:56Z",
+            "open_issues": 61,
             "owner": "MeshInspector",
             "repo": "MeshLib",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "3d",
               "3d-printing",
@@ -721,7 +721,7 @@
             "open_issues": 21,
             "owner": "nmwsharp",
             "repo": "potpourri3d",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -738,7 +738,7 @@
             "id": 7590021,
             "language": "C++",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-09T19:52:00Z",
+            "last_commit": "2026-11-10T17:03:59Z",
             "open_issues": 160,
             "owner": "boostorg",
             "repo": "geometry",
@@ -775,7 +775,7 @@
             "open_issues": 25,
             "owner": "topology-tool-kit",
             "repo": "ttk",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "c-plus-plus",
               "contour-tree",
@@ -809,7 +809,7 @@
             "open_issues": 42,
             "owner": "DGtal-team",
             "repo": "DGtal",
-            "stars": 399,
+            "stars": 396,
             "topics": [
               "computational-geometry",
               "digital-geometry",
@@ -938,8 +938,8 @@
             "id": 200015280,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-09T18:04:06Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-11T00:16:37Z",
+            "open_issues": 4,
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 181,
@@ -1179,7 +1179,7 @@
                 "open_issues": 3,
                 "owner": "libigl",
                 "repo": "libigl-python-bindings",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "conda",
                   "easy-to-use",
@@ -1291,7 +1291,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T12:27:43Z",
-                "open_issues": 78,
+                "open_issues": 80,
                 "owner": "RenderKit",
                 "repo": "embree",
                 "stars": 2774,
@@ -1315,7 +1315,7 @@
                 "open_issues": 58,
                 "owner": "moderngl",
                 "repo": "moderngl",
-                "stars": 2342,
+                "stars": 2343,
                 "topics": [
                   "graphical-applications",
                   "modern-opengl-functions",
@@ -1457,7 +1457,7 @@
             "open_issues": 18,
             "owner": "inducer",
             "repo": "meshpy",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "gmsh",
               "mesh-generation",
@@ -1482,7 +1482,7 @@
             "id": 97575728,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-09T22:57:16Z",
+            "last_commit": "2026-11-11T00:33:42Z",
             "open_issues": 117,
             "owner": "NGSolve",
             "repo": "netgen",
@@ -1595,7 +1595,7 @@
                 "open_issues": 39,
                 "owner": "wildmeshing",
                 "repo": "fTetWild",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1861,7 +1861,7 @@
                 "open_issues": 39,
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2517,
+                "stars": 2518,
                 "topics": [
                   "algorithm",
                   "boolean-operations",
@@ -2177,7 +2177,7 @@
             "open_issues": 99,
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6292,
+            "stars": 6293,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2264,7 +2264,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10221,
+            "stars": 10223,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -2451,7 +2451,7 @@
             "open_issues": 2,
             "owner": "jslee02",
             "repo": "awesome-graphics-libraries",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "3d-game-engine",
               "3d-graphics",
@@ -2595,7 +2595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:26:41.029Z",
+    "last_updated": "2026-11-11T01:12:03.115Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
