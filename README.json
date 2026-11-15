@@ -15,11 +15,11 @@
             "id": 8162615,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T19:38:41Z",
-            "open_issues": 591,
+            "last_commit": "2026-11-14T10:09:18Z",
+            "open_issues": 590,
             "owner": "PointCloudLibrary",
             "repo": "pcl",
-            "stars": 11224,
+            "stars": 11226,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -69,7 +69,7 @@
             "open_issues": 197,
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5913,
+            "stars": 5916,
             "topics": [
               "3d",
               "3d-models",
@@ -121,7 +121,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T19:53:01Z",
-            "open_issues": 479,
+            "open_issues": 480,
             "owner": "mikedh",
             "repo": "trimesh",
             "stars": 3721,
@@ -168,7 +168,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T15:05:04Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2577,
@@ -194,11 +194,11 @@
             "id": 172846478,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T02:30:46Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-14T05:47:12Z",
+            "open_issues": 36,
             "owner": "elalish",
             "repo": "manifold",
-            "stars": 2407,
+            "stars": 2410,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -301,7 +301,7 @@
             "id": 159520915,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T12:45:09Z",
+            "last_commit": "2026-11-15T00:01:21Z",
             "open_issues": 5,
             "owner": "LiangliangNan",
             "repo": "Easy3D",
@@ -381,10 +381,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-11-13T19:22:59Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "libgeos",
             "repo": "geos",
-            "stars": 1520,
+            "stars": 1519,
             "topics": [
               "c",
               "c-plus-plus",
@@ -410,7 +410,7 @@
             "open_issues": 17,
             "owner": "pmp-library",
             "repo": "pmp-library",
-            "stars": 1512,
+            "stars": 1511,
             "topics": [
               "c-plus-plus",
               "curvature",
@@ -474,11 +474,11 @@
             "id": 295819684,
             "language": "C++",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-04T21:56:06Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-14T07:02:56Z",
+            "open_issues": 3,
             "owner": "davideberly",
             "repo": "GeometricTools",
-            "stars": 1396,
+            "stars": 1395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -579,7 +579,7 @@
             "id": 77887760,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-12T07:56:42Z",
+            "last_commit": "2026-11-14T23:05:43Z",
             "open_issues": 0,
             "owner": "hhoppe",
             "repo": "Mesh-processing-library",
@@ -602,27 +602,6 @@
         },
         {
           "node_type": "item",
-          "title": "Numerical Tours",
-          "description": "includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Numerical Tours of Signal Processing",
-            "homepage": "http://www.numerical-tours.com",
-            "id": 13766928,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2026-09-08T18:58:54Z",
-            "open_issues": 32,
-            "owner": "gpeyre",
-            "repo": "numerical-tours",
-            "stars": 847,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:18:53.980Z"
-        },
-        {
-          "node_type": "item",
           "title": "MeshLib",
           "description": "A C++ library for mesh processing and analysis by MeshInspector.",
           "children": [],
@@ -633,11 +612,11 @@
             "id": 443066535,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T21:39:02Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-14T21:24:54Z",
+            "open_issues": 53,
             "owner": "MeshInspector",
             "repo": "MeshLib",
-            "stars": 846,
+            "stars": 848,
             "topics": [
               "3d",
               "3d-printing",
@@ -660,6 +639,27 @@
               "sdk",
               "wasm"
             ]
+          },
+          "first_seen": "2026-08-28T05:18:53.980Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Numerical Tours",
+          "description": "includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Numerical Tours of Signal Processing",
+            "homepage": "http://www.numerical-tours.com",
+            "id": 13766928,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2026-09-08T18:58:54Z",
+            "open_issues": 32,
+            "owner": "gpeyre",
+            "repo": "numerical-tours",
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
         },
@@ -938,8 +938,8 @@
             "id": 200015280,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:16:02Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-14T08:17:01Z",
+            "open_issues": 6,
             "owner": "Geode-solutions",
             "repo": "OpenGeode",
             "stars": 181,
@@ -1250,7 +1250,7 @@
             "open_issues": 127,
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2229,
+            "stars": 2230,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1315,7 +1315,7 @@
                 "open_issues": 58,
                 "owner": "moderngl",
                 "repo": "moderngl",
-                "stars": 2346,
+                "stars": 2347,
                 "topics": [
                   "graphical-applications",
                   "modern-opengl-functions",
@@ -1373,7 +1373,7 @@
                 "open_issues": 454,
                 "owner": "enthought",
                 "repo": "mayavi",
-                "stars": 1413,
+                "stars": 1414,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:53.980Z"
@@ -1505,7 +1505,7 @@
             "id": 54737404,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T22:45:17Z",
+            "last_commit": "2026-11-14T16:58:32Z",
             "open_issues": 6,
             "owner": "dengwirda",
             "repo": "jigsaw",
@@ -1673,7 +1673,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T15:05:04Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "BrunoLevy",
             "repo": "geogram",
             "stars": 2577,
@@ -1703,7 +1703,7 @@
             "open_issues": 11,
             "owner": "cutdigital",
             "repo": "mcut",
-            "stars": 504,
+            "stars": 503,
             "topics": [
               "3d-boolean",
               "boolean",
@@ -1980,7 +1980,7 @@
                     "open_issues": 17,
                     "owner": "pmp-library",
                     "repo": "pmp-library",
-                    "stars": 1512,
+                    "stars": 1511,
                     "topics": [
                       "c-plus-plus",
                       "curvature",
@@ -2198,7 +2198,7 @@
             "open_issues": 52,
             "owner": "MmgTools",
             "repo": "mmg",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "anisotropic-mesh-adaptation",
               "c",
@@ -2296,7 +2296,7 @@
             "open_issues": 4,
             "owner": "alecjacobson",
             "repo": "common-3d-test-models",
-            "stars": 1649,
+            "stars": 1650,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:53.980Z"
@@ -2595,7 +2595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:24:29.158Z",
+    "last_updated": "2026-11-15T00:58:29.215Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
